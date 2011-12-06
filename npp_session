@@ -1,0 +1,17 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="48" xOffset="0" scrollWidth="1744" startPos="1734" endPos="1734" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\controllers\welcome.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1744" startPos="349" endPos="349" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\controllers\login.php" />
+            <File firstVisibleLine="4" xOffset="0" scrollWidth="1744" startPos="434" endPos="434" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\views\dashboard_view.php" />
+            <File firstVisibleLine="30" xOffset="0" scrollWidth="1744" startPos="1702" endPos="1702" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\views\login_view.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1744" startPos="7595" endPos="7595" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\config\config.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1744" startPos="356" endPos="356" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\models\account_model.php" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1744" startPos="204" endPos="204" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\controllers\account.php" />
+            <File firstVisibleLine="42" xOffset="0" scrollWidth="1744" startPos="1699" endPos="1699" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\config\autoload.php" />
+            <File firstVisibleLine="31" xOffset="0" scrollWidth="1744" startPos="2685" endPos="2685" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\ci\application\config\database.php" />
+            <File firstVisibleLine="5" xOffset="0" scrollWidth="1744" startPos="1019" endPos="979" selMode="0" lang="PHP" encoding="-1" filename="C:\wamp\www\kontributor_b\index.php" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

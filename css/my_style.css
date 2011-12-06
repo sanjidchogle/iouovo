@@ -1,0 +1,232 @@
+.main-pane
+{
+	height:800px;
+	background-color: #ffffff;
+	/*width:465px;*/
+	/*border: 6px solid  #d4e8f1;*/
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	height:800px;
+	/*position:relative;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	overflow:hidden;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;*/
+}
+
+.secondary-pane
+{
+	background-color:white;
+	height:800px;
+	overflow:auto;
+}
+
+.main-content
+{
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background-color:white;
+}
+
+.center-aligned
+{
+	margin-left:auto;	
+	margin-right:auto;
+}
+
+.topbar-profile
+{
+	vertical-align:middle;
+}
+/*remove this if Remember me checkbox is not used at login forms*/
+.remember
+{
+	font-size: 11px;
+	color: #999;
+	width: 9px;
+	height: 9px;
+	font-family: 'Helvetica Neue', Arial, Helvetica, 'Liberation Sans', FreeSans, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;	
+
+}
+
+.login-form
+{
+	margin-left:auto;
+	margin-right:auto;
+	width:350px;
+}
+.login-form input[type="text"],.login-form input[type="email"],.login-form input[type="password"]
+{
+	height:22px;
+	padding:5px;
+
+}
+.login-form button[type="submit"]
+{
+	height:34px;
+}
+
+.error-message p
+{
+	color:#DD4B39;
+	margin-bottom:0px;
+}
+
+.captcha
+{
+	width:300px;
+}
+.fill-hero-unit
+{
+	background-color: #F5F5F5;
+	background-image: url("../img/bg.png");
+	background-repeat:repeat-x;
+}
+
+.transparent
+{
+	background-color: transparent !important;
+}
+
+.hero-unit h1, .hero-unit p
+{
+	text-align: center;
+}
+
+.hero1
+{
+	
+	padding-top:20px;
+	padding-bottom:10px;
+	background-color: transparent !important;
+}
+
+.fill-gray-backround
+{
+	background-color: #F5F5F5;
+}
+
+footer p
+{
+	text-align: center;
+}
+
+/*styles for group list and member list*/
+.group-tile,
+.member-tile,
+.contributor-tile,
+.sharer-tile
+{
+	min-height:50px;
+	border-width:0px 0px 1px 0px;
+  	border-style:solid;
+  	border-color:#8ec2da;
+  	padding:10px 10px 10px 10px;
+ }
+ .group-tile
+ {
+ 	width:260px;
+ }
+ .member-tile
+ {
+ 	width:440px;
+ }
+ .contributor-tile,
+ .sharer-tile
+ {
+ 	width:200px;
+ }
+
+/* .add-expense-shares
+ {
+ 	float:right;
+ 	width:220px;
+ }
+
+ .add-expense-contributions
+ {
+ 	float:left;
+ 	width:220px;
+ }*/
+
+.group-tile:hover,
+.member-tile:hover,
+.contributor-tile:hover,
+.sharer-tile:hover
+{
+	background-color: #d9ebf5;
+}
+
+.group-tile-profile-pic,
+.member-tile-profile-pic,
+.contributor-tile-profile-pic,
+.sharer-tile-profile-pic
+{
+	float:left;
+}
+
+.group-tile-content,
+.member-tile-content,
+.contributor-tile-content,
+.sharer-tile-content
+{
+	margin-left:50px;
+	padding-left:10px;
+}
+
+.group-tile-selected
+{
+	background-color: #d4e8f1;
+}
+
+.contributions-amount,
+.shares-amount
+{
+	width:35px;
+}
+
+.contributions-label,
+.shares-label
+{
+	text-align: left;
+	margin-bottom:4px;
+}
+
+fieldset legend
+{
+	padding-left:10px !important;
+}
+
+.hidden
+{
+	visibility:none;
+}
+
+/*for box debugging*/
+.fillblue
+{
+	background-color:rgba(0,0,200,0.7);
+}
+.fillred
+{
+	background-color:rgba(200,0,0,0.7);
+}
+.fillgreen
+{
+	background-color:rgba(0,200,0,0.7);
+}
+.fillwhite
+{
+	background-color:white;
+}
