@@ -1,0 +1,1 @@
+iouovo is a system for managing shared expenses among group of mutual friends..
